@@ -1,9 +1,5 @@
 # Rough Volatility: Hurst Parameter Estimation
 
-Estimation of the Hurst parameter for rough volatility models using wavelet-based methods and empirical analysis of financial time series.
-
-## Context
-
 This project implements and validates methods for estimating the Hurst exponent in rough volatility models, which are characterized by volatility paths with fractional Brownian motion (fBM) dynamics. The work demonstrates practical applications of rough volatility theory to real and simulated financial data.
 
 ## What It Demonstrates

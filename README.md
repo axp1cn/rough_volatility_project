@@ -10,7 +10,7 @@ Hurst exponent estimation methods for rough volatility models, using both simula
 - Report with results and methodology in `reports/Estimation_Parametre_Hurst.pdf`
 
 ## Contributors
-Axel Pincon
+Axel Pincon, Adrien Mathieu, Maxime Facon and David Premachandra
 
 ## References
 - Gatheral, Jim, Thibault Jaisson, and Mathieu Rosenbaum (2018), *Volatility is Rough*
